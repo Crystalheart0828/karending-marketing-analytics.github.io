@@ -1,4 +1,4 @@
-# Karen Ding
+# Marketing Data Analyst | Content Marketer | Entrepreneur
 
 #### Technical skills: SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn)
 #### Knowledge: Attribution models, Segmentation analysis, A/B testing, ROI analysis
