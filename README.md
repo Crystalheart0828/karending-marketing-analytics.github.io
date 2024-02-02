@@ -1,6 +1,6 @@
 <img src="asset/banner_make_marketing_smarter_with_data.png" alt="Banner" width="100%" height="auto"/>
 
-## Hi, I'm Karen, a Marketing/Growth Data Analyst, also a Content Strategist. 
+## Hi, I'm Karen, a Marketing/Growth Data Analyst,and Content Strategist. 
 I'm on a thrilling journey where I get to blend my passion for numbers and storytelling into the exciting world of business.
 </br>
 </br>
@@ -10,7 +10,10 @@ My career kicked off as a content strategist, but I couldn't stop pondering: Did
 These curious question marks set me on a path towards data analytics, the golden key to unlocking those answers. My mission? To make marketing strategies smarter, reach wider audiences, and save a boatload of resources (both cash and energy).
 </br>
 </br>
-This repository is my treasure trove of experiments aimed at making marketing "smarter." Think classic analysis tools like Attribution Analysis, Segmentation Analysis, A/B testing, ROI analysis, and even some innovative tricks like similarity analysis. Exciting stuff, right? Keep your eyes peeled for more, as there's always more in the pipeline! 🚀
+This repository is my treasure trove of experiments aimed at making marketing "smarter." Think classic analysis tools like <b>Attribution Analysis</b>, <b>Segmentation Analysis</b>, <b>A/B testing</b>, <b>ROI analysis</b>, and even some innovative tricks like <b>Similarity analysis</b>. 
+</br>
+</br>
+Exciting stuff, right? Keep your eyes peeled for more, as there's always more in the pipeline! 🚀
 
 #### Technical skills: SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn)
 #### Knowledge: Attribution models, Segmentation analysis, A/B testing, ROI analysis
