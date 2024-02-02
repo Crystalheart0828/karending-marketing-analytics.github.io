@@ -1,4 +1,4 @@
-![Banner](asset/banner_make_marketing_smarter_with_data.png)
+<img src="asset/banner_make_marketing_smarter_with_data.png" alt="Banner" width="100%" height="auto"/>
 
 # Marketing Data Analyst
 
