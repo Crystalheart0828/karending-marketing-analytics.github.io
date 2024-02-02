@@ -6,9 +6,13 @@
 <p></p>These curious question marks set me on a path towards data analytics, the golden key to unlocking those answers. My mission? To make marketing strategies smarter, reach wider audiences, and save a boatload of resources (both cash and energy).
 <p></p>This repository is my treasure trove of experiments aimed at making marketing "smarter." Think classic analysis tools like <b>Attribution Analysis</b>, <b>Segmentation Analysis</b>, <b>A/B testing</b>, <b>ROI analysis</b>, and even some innovative tricks like <b>Similarity analysis</b>. 
 <p></p>Exciting stuff, right? Keep your eyes peeled for more, as there's always more in the pipeline! 🚀
+</br>
+</br>
+<blockquote>
+    <strong><em>Technical skills:</em></strong> SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn)<br>
+    <strong><em>Knowledge:</em></strong> Attribution models, Segmentation analysis, A/B testing, ROI analysis
+</blockquote>
 
-#### Technical skills: SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn)
-#### Knowledge: Attribution models, Segmentation analysis, A/B testing, ROI analysis
 
 ## Projects
 ### 1. Attribution Analysis
