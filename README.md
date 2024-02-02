@@ -1,3 +1,5 @@
+![Banner](asset/banner_make_marketing_smarter_with_data.png)
+
 # Marketing Data Analyst
 
 #### Technical skills: SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn)
