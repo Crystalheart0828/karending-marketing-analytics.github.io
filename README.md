@@ -9,7 +9,7 @@
 <p>
 <blockquote>
     <strong><em>Data skills:</em></strong> SQL (Aggregation, Window Functions, CTE), Python (Pandas, Numpy, Seaborn, Matplotlib, Sklearn),Tableau, KQL, Microsoft Excel,Google Sheets<br>
-    <strong><em>Knowledge:</em></strong> Marketing Attribution models, Segmentation analysis, A/B testing, ROI analysis</br>
+    <strong><em>Knowledge:</em></strong> Marketing Attribution models, Segmentation analysis, A/B testing, ROI analysis
     <strong><em>Tools:</em></strong>Google Analytics, Google Tag Manager, Google BigQuery, Azure Data Explorer, Google Data Studio, Mode Analytics, Tableau
 </blockquote>
 <p>
