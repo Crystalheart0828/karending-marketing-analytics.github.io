@@ -34,16 +34,12 @@
         The most classical way of doing an <i><b>RFM model</b></i> is putting users into eight groups through rating them and score the rating up by each dimension, then the marketer could do customer analysis to have a clear picture of the customer portrait. <br>
         <br>
         Another method is using <i><b>K-means Clustering</b></i> to generate the clusters, instead of using manually rating. Then, marketer needs to do further research on each clusters, in order to gain insights on the features of each cluster.<br>
-        <br></p>
+        </p>
         <p><a href="Segmentation_analysis_RFM.md">See how I use both approaches to do a RFM Segmentation Analysis</a><br>
-        </p><br>
-                                                  
+        </p><br> 
+    </div>
     <div>
         <h3>3. A/B Testing</h3>
-        
-    </div>
-    <div>
-        <h3>4. ROI Analysis</h3>
-        <!-- Content for the fourth category goes here -->
-    </div>
-</div>
+        <p><i><b>A/B testing</b></i>, also known as split testing, is a methodical process used in marketing and user experience design to compare two versions of a webpage, email, advertisement, or other marketing materials. The goal is to determine which version performs better in achieving a specific objective, such as increasing click-through rates, conversions, or other key performance indicators (KPIs).</p>
+        <p><a href="Segmentation_analysis_RFM.md">See how I do an A/B test to refine a SaaS landing page</a><br>
+    
