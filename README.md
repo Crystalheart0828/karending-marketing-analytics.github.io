@@ -35,7 +35,7 @@
         <br>
         Another method is using <i><b>K-means Clustering</b></i> to generate the clusters, instead of using manually rating. Then, marketer needs to do further research on each clusters, in order to gain insights on the features of each cluster.<br>
         </p>
-        <p><a href="Segmentation_analysis_RFM.md">See how I use both approaches to do a RFM Segmentation Analysis</a><br>
+        <p><a href="Segmentation_analysis_using_RFM_model.html">See how I use both approaches to do a Segmentation Analysis using RFM model</a><br>
         </p><br> 
     </div>
     <div>
