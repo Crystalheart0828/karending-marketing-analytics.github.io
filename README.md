@@ -41,5 +41,5 @@
     <div>
         <h3>3. A/B Testing</h3>
         <p><i><b>A/B testing</b></i>, also known as split testing, is a methodical process used in marketing and user experience design to compare two versions of a webpage, email, advertisement, or other marketing materials. The goal is to determine which version performs better in achieving a specific objective, such as increasing click-through rates, conversions, or other key performance indicators (KPIs).</p>
-        <p><a href="AB_test.md">See how I do an A/B test to refine a SaaS landing page</a><br>
+        <p><a href="AB_test/AB_test.md">See how I do an A/B test to refine a SaaS landing page</a><br>
     
