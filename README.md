@@ -24,7 +24,7 @@
              <!--img src="asset/time_decay_attribution_model_pic.png" alt="Time Decay Attribution Model" width="40%" height="auto"/>-->
             </div>
             <p><i><b>Time-Decay Attribition Model</b></i> usually use this following calculation as decay factor:<b> weight = 0.5<sup>(t/half-life)</sup></b>. In this model, <b>'t'</b> represents the time difference between a touchpoint and the final conversion. The <b>'half-life'</b> is typically set to 7, indicating that the influence on conversion is halved every seven days.<br></p>
-            <p><a href="Exponential_Time_Decay_Attribution_Model.md">See how I run Exponential Time-Decay Attribution Model step by step in Python</a><br>
+            <p><a href="Time-decay_attribution_model.md">See how I run Exponential Time-Decay Attribution Model step by step in Python</a><br>
             </p><br>
     </div>
     <div>
